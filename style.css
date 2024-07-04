@@ -1,0 +1,13 @@
+.product-card{
+    max-width: 350px;
+    margin: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px;
+}
+
+.product-card-body{
+    padding: 20px;
+    text-align: center;
+}
